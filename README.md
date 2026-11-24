@@ -1,3 +1,8 @@
+![make.fun](https://make.fun/badge/tiny-chess-01/svg)
+![rank](https://make.fun/badge/tiny-chess-01/modol33k/tiny-chess-modol/rank.svg)
+![reward](https://make.fun/badge/tiny-chess-01/modol33k/tiny-chess-modol/reward.svg)
+
+[tiny-chess-01 on make.fun](https://make.fun/bounty/tiny-chess-01)
 # kemod-sunfish-bp
 
 A fork of Thomas Ahle's sunfish (GPL-3.0-only), tuned for the make.fun
